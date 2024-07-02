@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+div{
+    width: 50%;
+    height:max-content;
+    border: 4px solid red;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+div button{
+    background-color: red;
+    border: none;
+    outline: none;
+    padding: 6px 13px;
+    font-size: 18px;
+    border-radius: 18px;
+    color: white;
+    cursor: pointer;
+}
